@@ -1,0 +1,15 @@
+#menu{
+    background-color: rgba(231, 228, 228, 0.993);
+    position: fixed;
+    text-align: center;
+    width: 95%;
+    top: 10px;
+    left: 50px;
+}
+#menu ul{
+    padding: 25px;
+}
+#menu a{
+    margin: 35px;
+    font-size: 35px;
+}
