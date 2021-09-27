@@ -12,4 +12,14 @@
 #menu a{
     margin: 35px;
     font-size: 35px;
+    text-decoration: none;
+    color: black;
+    transition: 0.7s;
+}
+#menu a:hover{
+    border: 1px solid black;
+    border-radius: 5px ;
+    color: red;
+    background-color: black;
+    padding: 10px;
 }
