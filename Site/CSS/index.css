@@ -1,7 +1,14 @@
 body{
     background-color: black;
 }
+#text1{
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 150px;
+    border: 1px solid white;
+    padding: 45px;
+    background-color: rgb(44, 44, 44);
+}
 p{
     color: white;
-    margin-top: 150px;
 }
